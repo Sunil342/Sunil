@@ -1,0 +1,9 @@
+Hi connections,
+
+We have immediate opening with 5+ years on experience in java.
+
+*Very strong programming skills in java
+*Experience in spring and springboot framework
+*Strong understanding about RESTful service,micro services,MVC architecture
+*Should have basic knowledge about CI/CD implementations.
+
